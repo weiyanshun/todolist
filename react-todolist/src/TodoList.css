@@ -1,0 +1,18 @@
+.search-header {
+  display: flex;
+  justify-content: flex-start;
+  .input {
+    width: 70%;
+    margin: 0 30px;
+  }
+}
+.buttonMap{
+  display: flex;
+  justify-content: flex-start;
+  .button{
+    margin: 30px 0 10px 30px;
+  }
+}
+.table{
+  margin: 0 30px;
+}
